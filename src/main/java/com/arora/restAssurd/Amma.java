@@ -8,8 +8,7 @@ public class Amma {
 	  }
 public void Do1() {
 		  
-		aaaa
-		  
+
 	  }
 public void Do2() {
  
