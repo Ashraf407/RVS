@@ -16,6 +16,11 @@ public void Do2() {
  
  
 }
+    public void Do3() {
+
+
+
+    }
 	public static void main(String[] args) {
 		 
 	}
