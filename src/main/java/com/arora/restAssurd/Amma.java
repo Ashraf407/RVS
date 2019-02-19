@@ -16,11 +16,21 @@ public void Do4() {
  
  
 }
-    public void Do5git() {
+    public void Do7() {
 
 
 
     }
+	public void Do8() {
+
+
+
+	}
+	public void Do9() {
+
+
+
+	}
 	public static void main(String[] args) {
 		 
 	}
