@@ -11,12 +11,12 @@ public void Do1() {
 		
 		  
 	  }
-public void Do2() {
+public void Do4() {
  
  
  
 }
-    public void Do3() {
+    public void Do5git() {
 
 
 
