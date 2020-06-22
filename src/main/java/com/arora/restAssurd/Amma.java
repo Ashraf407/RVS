@@ -1,5 +1,3 @@
-package com.arora.restAssurd;
-
 public class Amma {
 	 public void Do() {
 		  
@@ -8,41 +6,13 @@ public class Amma {
 	  }
 public void Do1() {
 		  
-		
-		  
+
 	  }
-public void Do4() {
+public void Do2() {
  
  
  
 }
-	public void Do22() {
-
-
-
-	}
-	public void Do33() {
-
-
-
-	}
-    public void Do7() {
-
-
-
-    }
-	public void Do8() {
-
-
-
-	}
-	public void Do9() {
-
-
-
-
-
-	}
 	public static void main(String[] args) {
 		 
 	}
