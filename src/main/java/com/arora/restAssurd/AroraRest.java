@@ -63,11 +63,7 @@ public class AroraRest {
         // putting phoneNumbers to JSONObject 
         jo.put("phoneNumbers", ja); 
           System.out.println(jo);
-        /*// writing JSON to file:"JSONExample.json" in cwd 
-        PrintWriter pw = new PrintWriter("JSONExample.json"); 
-        pw.write(jo.toJSONString()); 
-          */
-        
+      
     } 
 } 
 	
