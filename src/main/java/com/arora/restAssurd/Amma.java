@@ -10,6 +10,9 @@ public void Do1() {
 	 System.out.println("ASSH");
 	 System.out.println("ASSH");
 	 System.out.println("ASSH");
+	 System.out.println("ASSH");
+	 System.out.println("ASSH");
+	 System.out.println("ASSH");
  }
 public void Do2() {
 	 System.out.println("ASSH");
